@@ -4,7 +4,7 @@ Please note that PrestaShop 1.6 reached end of life as of 1st of July 2019. This
 
 ## Installation
 
-Please navigate to the [releases page](https://github.com/PayGate/PayWeb_PrestaShop_1.6/releases), download the latest release (v1.0.1) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
+Please navigate to the [releases page](https://github.com/PayGate/PayWeb_PrestaShop_1.6/releases), download the latest release (v1.0.1) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
 
 ## Collaboration
 
